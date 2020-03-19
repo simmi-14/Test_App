@@ -2,15 +2,15 @@
    "cards":[
       {
          "name":"card1",
-         "value":1
+         "value":250
       },
       {
          "name":"card2",
-         "value":2
+         "value":150
       },
       {
          "name":"card3",
-         "value":3
+         "value":300
       }
    ]
 }
